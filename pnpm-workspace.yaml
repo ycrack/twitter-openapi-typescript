@@ -1,0 +1,4 @@
+packages:
+  - example
+  - twitter-openapi-typescript
+  - twitter-openapi-typescript-generated
